@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\JsonFx.Json.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\obj\Debug\UnityVS.DotaLegendPro.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Administrator\Desktop\DotaLegend\DotaLegendPro\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: aa413555932bc15409ef77e80e0f60f6
+timeCreated: 1441616041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Eyes.png
+    21300002: Eyes_1.png
+    21300004: Eyes_1_01.png
+    21300006: Eyes_1_02.png
+    21300008: Eyes_1_1.png
+    21300010: Eyes_1_3.png
+    21300012: Eyes_3.png
+    21300014: Eyes_5.png
+    21300016: Eyes_7.png
+    21300018: Eyes_8.png
+    21300020: Eyes_9.png
+    21300022: Head.png
+    21300024: Head_01.png
+    21300026: Head_03.png
+    21300028: Head_03_s.png
+    21300030: Head_1.png
+    21300032: Head_11.png
+    21300034: Head_11_s.png
+    21300036: Head_1_s.png
+    21300038: Head_2.png
+    21300040: Head_2_s.png
+    21300042: Head_6.png
+    21300044: Head_6_s.png
+    21300046: Head_7.png
+    21300048: Head_7_s.png
+    21300050: Head_8.png
+    21300052: Head_8_s.png
+    21300054: Head_s.png
+    21300056: LArm.png
+    21300058: LForearm.png
+    21300060: LLeg.png
+    21300062: MainWeapon.png
+    21300064: MainWeapon_s.png
+    21300066: RArm.png
+    21300068: RForearm.png
+    21300070: RForearm_2.png
+    21300072: RForearm_s.png
+    21300074: RLeg.png
+    21300076: Shodow.png
+    21300078: TorsoBottom.png
+    21300080: TorsoBottom_s.png
+    21300082: TorsoTop.png
+    21300084: TorsoTop_1.png
+    21300086: TorsoTop_1_s.png
+    21300088: TorsoTop_s.png
+    21300090: pingzi1.png
+    21300092: sh01.png
+    21300094: sh02.png
+    21300096: sh03.png
+    21300098: sh04.png
+    21300100: sh05.png
+    21300102: sh06.png
+    21300104: sh07.png
+    21300106: sh08.png
+    21300108: sh09.png
+    21300110: sh10.png
+    21300112: sh11.png
+    21300114: sh12.png
+    21300116: sh13.png
+    21300118: sh14.png
+    21300120: sh15.png
+    21300122: shou1.png
+    21300124: shou1_s.png
+    21300126: shou3.png
+    21300128: shou_1.png
+    21300130: texiao1.png
+    21300132: texiao2.png
+    21300134: texiao3.png
+    21300136: texiao4.png
+    21300138: tutengguang.png
+    21300140: tutengt.png
+    21300142: xianglian.png
+    21300144: xianglian_s.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Eyes.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_1.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 73
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_1_01.png
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_1_02.png
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_1_1.png
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 57
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_1_3.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 123
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_3.png
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 8
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_5.png
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 139
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_7.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_8.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes_9.png
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 27
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_01.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 32
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_03.png
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 53
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_03_s.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_1.png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 131
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_11.png
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 53
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_11_s.png
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 61
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_1_s.png
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 81
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_2.png
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 132
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_2_s.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 33
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_6.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 67
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_6_s.png
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 103
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_7.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_7_s.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 184
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_8.png
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_8_s.png
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 143
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_s.png
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 194
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LArm.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 35
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LForearm.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 182
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LLeg.png
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 62
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainWeapon.png
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 5
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MainWeapon_s.png
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 181
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RArm.png
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RForearm.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RForearm_2.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RForearm_s.png
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RLeg.png
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shodow.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 182
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoBottom.png
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 158
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoBottom_s.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 96
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop.png
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 81
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_1.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 136
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_1_s.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 129
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_s.png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pingzi1.png
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 106
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh01.png
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh02.png
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 121
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh03.png
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 61
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh04.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 63
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh05.png
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 131
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh06.png
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 115
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh07.png
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 103
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh08.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh09.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 142
+        width: 135
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh10.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 208
+        width: 141
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh11.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 203
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh12.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 93
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh13.png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 53
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh14.png
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 35
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sh15.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou1.png
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 34
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou1_s.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 42
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou3.png
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 99
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou_1.png
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 76
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: texiao1.png
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: texiao2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: texiao3.png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 181
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: texiao4.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tutengguang.png
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 242
+        width: 169
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tutengt.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xianglian.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xianglian_s.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 129
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

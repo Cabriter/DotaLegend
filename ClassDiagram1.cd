@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aperture.AotSafe" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\JsonFx\ForEach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskTest" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.FSM" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAIAEAABAAAAIAAAAAAAAAoAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\FSM\FSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.FSMEvent" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\FSM\FSMEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.State" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAEgAgAAAAAAEAAAAEAAAAAAAAAAACIAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\FSM\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.StateWithEventMap" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAAAAAEAgAgAAAAQBAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\FSM\StateWithEventMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskState" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\FSM\TaskState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.Task" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAIAEAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskList" Collapsed="true">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAgAABQEAAAAAAAAAAIAAQAABA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskManager" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAIAAAAAAAAAAEABABAAABAAAAAAABCMEI=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskPack" Collapsed="true">
+    <Position X="11.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskPack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskPartRunner" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskPartRunner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskRunner" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAgAAAAAAAAAAEgAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskRunner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskSet" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TaskWait" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAgAABAAQACAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskWait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.GlobalUI" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAABADAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Toolkits\GlobalUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.LoadingWindow" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEAAAAAAAAAAAABAAAgAAAAAABAAAAAABAEA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Toolkits\LoadingWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.OffsetUI" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAQAAAAAAAgAAAAAAABAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Toolkits\OffsetUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.SampleAnimation" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAQAAQAAAAQAAAAABAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Toolkits\SampleAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.IgnoreTimeScale" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAEAAAAAAAAAAAAAAAAAAgAAAAAACAAoAAAAAAICAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\IgnoreTimeScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.Tween" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AQAwBIBBiACJDYBIUBAVwhIQhRFHBAMxABQEZEAAQc=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\Tween.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenAlpha" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAAACAAAAAAAAAgAAAAAEAAAAAAQAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenAlpha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenGroupAlpha" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAIAAAAAAAAAAAAAAAgAAAAAEAAAAAAQAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenGroupAlpha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenLocalPosition" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABAAAAAAAAAAIAgAAAAAGAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenLocalPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenRotation" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABAAAAAAAACAAAgAAAAAGAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenRotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenScale" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABAAAAAAAAAAAAgCAAAAGAAAAAAAAAUAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenTask" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenValue" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIgAAAAAAAAAAAAAAgAAAAAEAAABAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.TweenWorldPosition" Collapsed="true">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABAAAAAAAAAAIAgAAAAAGAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Tweener\TweenWorldPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.WebData" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAAAAgCAAAAAAAAAAAAEAAAAAAAAQIAAAI=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.DataInfo" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQACA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebLoaderTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.WebLoaderTask&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebLoaderTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.WebPack" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAABAAABAAAAAAAAAAAEAAAAQCAAAIAAQA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebPack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.WebTaskFactory" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAACAABABAAAAAAABSAAAAAEA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebTaskFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDGeek.WebTimestamp" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQABABAAAAAQAAAAAAQAEA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebTimestamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GDGeek.DataInfoLoader&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Web\WebLoaderTask.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="GDGeek.TaskInit" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GDGeek.TaskShutdown" Collapsed="true">
+    <Position X="21.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GDGeek.TaskUpdate" Collapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GDGeek.TaskIsOver" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GDGeek.TaskFactory" Collapsed="true">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GDGeek\Task\TaskDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

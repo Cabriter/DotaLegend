@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: fa29fb86e8709be4cb38f2d0a1b217b1
+timeCreated: 1441616894
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 001.png
+    21300002: 002.png
+    21300004: 003.png
+    21300006: Eyes.png
+    21300008: Head.png
+    21300010: Head_1.png
+    21300012: Head_2.png
+    21300014: Head_3.png
+    21300016: Head_4.png
+    21300018: Head_5.png
+    21300020: LForearm.png
+    21300022: RForearm.png
+    21300024: Shadow.png
+    21300026: TorsoBottom.png
+    21300028: TorsoTop.png
+    21300030: TorsoTop_1.png
+    21300032: TorsoTop_2.png
+    21300034: TorsoTop_3.png
+    21300036: anquan.png
+    21300038: arm.png
+    21300040: asdfagasdgsah.png
+    21300042: asdgasdgas.png
+    21300044: asdgdvcdsahga.png
+    21300046: dgjmdfkgbkfdjng.png
+    21300048: dsfnjhjfdshgdfgh.png
+    21300050: eye1.png
+    21300052: eysda.png
+    21300054: fjnsdfiuvbsdjkfgb.png
+    21300056: guang.png
+    21300058: hand1.png
+    21300060: head2.png
+    21300062: huab_1_1.png
+    21300064: huab_2_1.png
+    21300066: ice3.png
+    21300068: ice6.png
+    21300070: qiu.png
+    21300072: sdfhsdfvsdfhsdfhsdfhsd.png
+    21300074: shou001.png
+    21300076: shou002.png
+    21300078: shou1.png
+    21300080: shou2.png
+    21300082: yan.png
+    21300084: zui.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 001.png
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 54
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 002.png
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 55
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 003.png
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eyes.png
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 114
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_1.png
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 11
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_2.png
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_3.png
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 99
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_4.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head_5.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 12
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LForearm.png
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RForearm.png
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 36
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 86
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoBottom.png
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 14
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop.png
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 95
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_1.png
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 129
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_2.png
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 50
+        width: 109
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TorsoTop_3.png
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anquan.png
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 31
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm.png
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asdfagasdgsah.png
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asdgasdgas.png
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asdgdvcdsahga.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dgjmdfkgbkfdjng.png
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dsfnjhjfdshgdfgh.png
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 16
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye1.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eysda.png
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 36
+        width: 3
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fjnsdfiuvbsdjkfgb.png
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guang.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand1.png
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head2.png
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: huab_1_1.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: huab_2_1.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 50
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice3.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 30
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice6.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 50
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: qiu.png
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 33
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sdfhsdfvsdfhsdfhsdfhsd.png
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 11
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou001.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou002.png
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 33
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou1.png
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 12
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shou2.png
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yan.png
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 122
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zui.png
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 91
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
